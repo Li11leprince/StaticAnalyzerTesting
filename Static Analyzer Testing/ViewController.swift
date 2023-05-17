@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     }
 
     //неиспользуемая переменная
-    var a = 20
+    var a = 21
     
     //утечка памяти
     class Person {
